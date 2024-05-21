@@ -19,7 +19,8 @@ classifiers = [
 dependencies = [
   "PyWavelets",
   "scikit-image",
-  "scipy"
+  "scipy",
+  "opencv-python"
 ]
 
 [project.urls]
