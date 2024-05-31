@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "texture_color_segmentation"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="Arthur Huys" },
 ]
@@ -23,3 +23,7 @@ dependencies = [
   "opencv-python",
   "matplotlib"
 ]
+
+[project.urls]
+Homepage = "https://github.com/HuysArthur/texture-features-as-optimization-for-unsupervised-image-segmentation"
+Issues = "https://github.com/HuysArthur/texture-features-as-optimization-for-unsupervised-image-segmentation/issues"

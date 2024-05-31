@@ -7,7 +7,7 @@ A Python package for image segmentation that combines texture features with colo
 To install the package, use the following command:
 
 ```bash
-pip install texture_color_segmentation
+pip install texture-color-segmentation
 ```
 
 For the example below, the Distance Regularized Level Set Evolution (DRLSE) segmentation algorithm is used. This algorithm is introduced in the paper "Distance Regularized Level Set Evolution and Its Application to Image Segmentation" by C. Li, C. Xu, C. Gui and M. D. Fox, in IEEE Transactions on Image Processing, vol. 19, no. 12, pp. 3243-3254, Dec. 2010, doi: 10.1109/TIP.2010.2069690.
